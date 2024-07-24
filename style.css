@@ -1,0 +1,10 @@
+/*Selector targets all td elements that are the first child in their row to the entire first column.*/
+td:nth-child(1) {
+    font-weight: bold;
+}
+
+/*Select targets all td elements that are the second child in their row to the entire second column.*/
+td:nth-child(2) {
+    text-align: center;
+}
+
